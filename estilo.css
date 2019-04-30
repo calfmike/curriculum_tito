@@ -1,0 +1,175 @@
+html {
+    background-color: #33313b;
+    color: #fdc57b;
+  }
+
+.sector1{
+    background-color:#007880;
+width: 600px;
+height: 450px;
+float:left;
+margin-left: 412px; 
+margin-top: 30px;
+border-radius: 10px;
+padding: 10px;
+}
+
+header{
+    position:fixed;
+    height: 330px;
+}
+
+.sector2{
+background-color:#007880;
+width: 600px;
+height: 250px;
+float:left;
+margin-left: 412px; 
+margin-top: 30px;
+border-radius: 10px;
+padding: 10px;
+}
+
+.sector3{
+    background-color:#007880;
+    width: 600px;
+    height: 100px;
+    float:left;
+    margin-left: 412px; 
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    }
+
+    .sector4{
+        background-color:#007880;
+        width: 600px;
+        height: px;
+        float:left;
+        margin-left: 412px; 
+        margin-top: 30px;
+        border-radius: 10px;
+        padding: 10px;
+        }
+
+.barra {
+    float:left;
+    margin-left: 60px;
+    margin-top:30px;
+    background-color: #71a0a5;
+    border-radius: 10px;
+    height: 100%;
+}
+
+#buton1{
+    background-color: #ccccff;
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+#tito{
+    margin-bottom:10px;
+    background-color: #33313b;
+
+}
+
+.barra_2{
+    align-content: left;
+    text-align: left;
+}
+
+img.tito_2{
+    padding-bottom: 10px;
+}
+
+.icons{
+    float:left;
+    padding: 0;
+}
+
+.buton{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+li.buton {
+    padding-top: 0px;
+    list-style: none;
+    
+}
+
+li.datos{
+    border-bottom: 1px dotted salmon;
+    padding-top: 5px;
+    list-style: none;
+    padding-bottom: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 13px;   }
+
+li.buton{
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+
+#1{
+    background: red;
+    
+}
+
+ul.datos_2{
+    margin:0;
+    padding:0;
+    padding-left:0;
+    list-style: none;
+}
+
+ul.barra_2
+{
+    margin:0;
+    padding:0;
+    padding-left:0;
+    list-style: none;
+}
+
+h4{
+font-family: 'Montserrat', sans-serif;
+font-style: italic;
+}
+
+h3{
+    font-size: 20px;
+    border-bottom: 2px solid salmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.datos{
+    text-align: left;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-stretch: normal;
+    text-align: left;
+}
+  
+ .buton{
+     margin: 0;
+     
+ }
+  
+a:link{
+    color:black;
+}
+
+.barra_2 li  {background-color: transparent; text-decoration: none; }
+ .barra_2 li:hover {background-color: #007880;}
+ .barra_2 li:active {background-color: #007880;}
